@@ -1,4 +1,4 @@
-# Sorting Algorithm Visualization
+# Sorting Algorithm Visualizer
 
 This is the first Javascript based step-by-step visualization software that covers more sorting algorithms than any of the past tools.
 
